@@ -6,6 +6,15 @@ namespace gizem
     {
         static void Main(string[] args)
         {
+            /*
+            Continent_Name
+            Continent_Code
+            Country_Name
+            Two_Letter_Country_Code
+            Three_Letter_Country_Code
+            Country_Number
+
+            */
             string[,] countries = new string[,]{
             {"Asia","AS","Afghanistan, Islamic Republic of","AF","AFG","4"},
             {"Europe","EU","Albania, Republic of","AL","ALB","8"},
